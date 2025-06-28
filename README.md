@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on Peer to Peer E-Learning Platform<br>🤝 I’m looking for help with AIML Projects<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Web Designing, Python, Django, JavaScript, React, Node.JS etc.<br>
 
 
 ## 🌐 Socials:
