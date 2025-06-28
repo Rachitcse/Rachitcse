@@ -1,4 +1,6 @@
 # 💫 About Me:
+Hi there! I'm a passionate developer who loves building clean, efficient, and scalable solutions. I enjoy working on open-source projects, exploring new technologies, and continuously learning to improve my skills. Check out my repositories to see what I've been working on!
+
 🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on Peer to Peer E-Learning Platform<br>🤝 I’m looking for help with AIML Projects<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Web Designing, Python, Django, JavaScript, React, Node.JS etc.<br>
 
 
